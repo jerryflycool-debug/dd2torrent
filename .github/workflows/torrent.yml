@@ -7,9 +7,9 @@ on:
 env:
   name: "Android Studio and SDK Tools"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
+  url: "https://cesuesedu-my.sharepoint.com/personal/mariapaula_martinez_ues_mx/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fmariapaula%5Fmartinez%5Fues%5Fmx%2FDocuments%2FSolidWorks%202025%20SP1%2E1%20Full%20Premium%2Erar"
   file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 23 # Check the README.md for recommended piece size
       
 jobs:
   create:
